@@ -31,7 +31,7 @@ body {
     background-color: whitesmoke;
 }
 p, img {
-    margin: 10px, 40px, 5px, 40px;
+    margin: 5px, 40px, 5px, 40px;
 }
 iframe, h5 {
     margin-left: 20px;
