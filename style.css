@@ -20,8 +20,10 @@
     background-color:#3b6ba5;
 }
 h1 {
-    padding-top: 50px;
-    font-family: 'Teko', sans-serif;   
+    padding-top: 100px;
+    font-family: 'Teko', sans-serif; 
+    font-weight: bold;
+    color: #373538;
 }
 body {
     background-color: whitesmoke;
