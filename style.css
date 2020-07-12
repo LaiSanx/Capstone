@@ -28,6 +28,7 @@ h1 {
 body {
     background-color: whitesmoke;
 }
-p {
+p, img {
     margin: 40px;
 }
+
